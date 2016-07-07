@@ -203,6 +203,7 @@ public class GUI {
 			}
 		}
 		
+		currentWin = 0;
 		counter = -1;
 		turn = 0;
 	}
